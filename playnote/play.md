@@ -44,3 +44,8 @@ apk add bat
 
 #### 安装neofetch
 apk add neofetch
+
+
+### 检查网络
+#### 工程地址: https://github.com/yeahwu/check
+wget -qO- https://github.com/yeahwu/check/raw/main/check.sh | bash
